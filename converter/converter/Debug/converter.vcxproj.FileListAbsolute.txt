@@ -1,0 +1,3 @@
+C:\Users\Admin\source\repos\converter\converter\Debug\converter.vcxprojAssemblyReference.cache
+C:\Users\Admin\source\repos\converter\converter\Debug\converter.converter.resources
+C:\Users\Admin\source\repos\converter\converter\Debug\converter.vcxproj.GenerateResource.cache
